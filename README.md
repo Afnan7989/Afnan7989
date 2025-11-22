@@ -1,6 +1,6 @@
-<!-- Background cover -->
+<!-- Wide Header Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1612831661226-7a3a1b8d87e0?auto=format&fit=crop&w=1600&q=80" alt="Background" width="100%" />
+  <img src="https://images.unsplash.com/photo-1603781849214-84a3302571d4?auto=format&fit=crop&w=1600&q=80" width="100%" alt="Developer Banner"/>
 </p>
 
 <!-- Animated Typing Banner -->
@@ -9,8 +9,7 @@
 </h1>
 
 <p align="center">
-  Passionate about building scalable, maintainable, and beautifully designed applications.  
-  Concept-driven developer with expertise in Angular, Ionic, WordPress, and PHP.
+  Concept-driven developer building scalable, maintainable applications with Angular, Ionic, WordPress, and PHP.
 </p>
 
 ---
@@ -18,14 +17,14 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
 </p>
 
 ---
@@ -43,7 +42,7 @@ Angular + PrimeNG dynamic form engine.<br>
 <td align="center">
 <img src="https://media.giphy.com/media/l0HlPjezZyYf5lJXy/giphy.gif" width="200" /><br>
 <b>Ionic Mobile App</b><br>
-Hybrid Android/iOS application with offline mode.<br>
+Hybrid Android/iOS application.<br>
 <a href="#">Demo</a> | <a href="#">GitHub</a>
 </td>
 <td align="center">
