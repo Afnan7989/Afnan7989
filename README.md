@@ -1,11 +1,10 @@
-<!-- Wide Header Banner -->
+<!-- ================= Header / Hero Section ================= -->
 <p align="center">
   <img src="https://images.unsplash.com/photo-1603781849214-84a3302571d4?auto=format&fit=crop&w=1600&q=80" width="100%" alt="Developer Banner"/>
 </p>
 
-<!-- Animated Typing Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C853&width=600&lines=Hello,+I'm+Afnan!;Angular+%7C+Ionic+%7C+WordPress+Developer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C853,FF6D00,1E90FF&width=600&lines=Hello,+I'm+Afnan!;Angular+%7C+Ionic+%7C+WordPress+Developer" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -14,21 +13,23 @@
 
 ---
 
+<!-- ================= Tech Stack Grid ================= -->
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
 </p>
 
 ---
 
+<!-- ================= Projects Section ================= -->
 ## 📂 Featured Projects
 
 <table>
@@ -76,6 +77,7 @@ Professional developer portfolio.<br>
 
 ---
 
+<!-- ================= GitHub Stats ================= -->
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -85,6 +87,7 @@ Professional developer portfolio.<br>
 
 ---
 
+<!-- ================= Connect Section ================= -->
 ## 🌐 Connect With Me
 
 <p align="center">
