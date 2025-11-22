@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C853,FF6D00,1E90FF&width=600&lines=Hello,+I'm+Afnan!;Angular+%7C+Ionic+%7C+WordPress+Developer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C853,FF6D00,1E90FF&width=650&lines=Hello,+I'm+Afnan!;Angular+%7C+Ionic+%7C+WordPress+Developer" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -13,7 +13,6 @@
 
 ---
 
-<!-- ================= Tech Stack Grid ================= -->
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -29,7 +28,6 @@
 
 ---
 
-<!-- ================= Projects Section ================= -->
 ## 📂 Featured Projects
 
 <table>
@@ -77,17 +75,21 @@ Professional developer portfolio.<br>
 
 ---
 
-<!-- ================= GitHub Stats ================= -->
-## 📊 GitHub Stats
+## 📊 My Languages (Custom)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Afnan7989&show_icons=true&theme=radical&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afnan7989&layout=compact&theme=radical" height="165" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
+
+> ✅ This custom section replaces Top Languages cards and **always shows your main tech stack**, no “No Data” issue.
 
 ---
 
-<!-- ================= Connect Section ================= -->
 ## 🌐 Connect With Me
 
 <p align="center">
